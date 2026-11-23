@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# Halo semua! 
+## Hi there 👋 
  
-Perkenalkan nama saya **Rachman Faiz Maulana**.<br>
+My name **Rachman Faiz Maulana**.<br>
  
-Saya seorang **Android Developer**.<br>
+I'm an **Android Developer**.<br>
  
 Here's my linkedin  [Linkedin](https://www.linkedin.com/in/rachmanfaiz/)
  
